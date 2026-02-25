@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "スパイダー",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-25T04:41:55.120740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_ピンク_スパイダー_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/02_ピンク_スパイダー_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/03_スパイダー_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_スパイダー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/05_スパイダー_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/06_スパイダー_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/07_スパイダー_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/08_スパイダー_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "hide with Spread Beaver",
+      "has_synced": false,
+      "path": "select/09_ピンク_スパイダー_hide_with_Spread_Beaver.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/10_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "hide with Spread Beaver",
+      "has_synced": true,
+      "path": "select/11_ピンク_スパイダー_hide_with_Spread_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スパイダー - Spider",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/12_スパイダー_-_Spider_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/13_スパイダー_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "Koda Kumi (倖田來未)",
+      "has_synced": false,
+      "path": "select/14_ピンク_スパイダー_Koda_Kumi_(倖田來未).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ピンク スパイダー",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/15_ピンク_スパイダー_倖田來未.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_スパイダー_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "スパイダー",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_スパイダー_スピッツ.txt"
+    }
+  ]
+}
